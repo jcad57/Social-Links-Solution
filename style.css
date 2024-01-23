@@ -116,3 +116,10 @@ a .button{
     top: 0;
 }
 
+.credits {
+    color: var(--green);
+}
+
+a:visited {
+    color: var(--green);
+}
